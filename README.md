@@ -1,6 +1,8 @@
 # moire-vue
 Дипломная работа курса «Frontend-разработчик» от "Skillbox"
 Этот проект - имитация интернет магазина белья Moire, реализован на Vue2 (с применением библиотек vuex, axios) с использованием REST API.
+
+
 Демо: https://larisa38.github.io/moire-vue/
 
 
